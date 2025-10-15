@@ -1,4 +1,8 @@
-# cz2002-oop-restaurant-reservation-system
-Group project for CZ2002 Object Oriented Programming and Design, a console-based Restaurant Reservation and Point of Sale System (RRPSS) written in Java. 
+# Restaurant Reservation & POS System 🍽️
 
-Video Demonstration: https://youtu.be/SjYjgRi1k_0 
+**CZ2002 Object-Oriented Programming and Design**  
+A console-based restaurant reservation and point-of-sale system written in Java.
+
+---
+
+### 🎬 Video Demo - [link](https://youtu.be/SjYjgRi1k_0)
